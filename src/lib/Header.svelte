@@ -6,6 +6,4 @@
   header {
     background-color: palevioletred;
   }
-  footer {
-  }
 </style>
