@@ -1,11 +1,5 @@
-<footer>
-    <p>&copy; Craighead Diocesan School 2024</p>
+<footer class="footer">
+    <div class="content has-text-centered">
+        <p>&copy; Craighead Diocesan School 2024</p>
+    </div>
 </footer>
-
-<style>
-    footer {
-        background-color: #ff73c0;
-        color: rgb(255, 255, 255);
-        padding: 20px;
-    }
-</style>
