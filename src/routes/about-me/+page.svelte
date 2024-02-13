@@ -21,5 +21,6 @@
 <style>
     img {
         height: 250px;
+        margin: 2% 0.2%;
     }
 </style>
