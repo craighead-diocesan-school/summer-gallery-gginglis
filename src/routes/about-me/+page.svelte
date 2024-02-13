@@ -8,7 +8,7 @@
 
 <Nav />
 
-<main class="main">
+<main class="content-section">
     <img src="/amberandg.JPG" alt="" />
     <img src="/avaandg.JPG" alt="" />
     <img src="/bffs.JPG" alt="" />
@@ -18,9 +18,9 @@
 
 <Footer />
 
-<!-- <style>
+<style>
     img {
         height: 250px;
         margin: 2% 0.2%;
     }
-</style> -->
+</style>

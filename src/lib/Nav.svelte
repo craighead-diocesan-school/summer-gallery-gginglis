@@ -1,9 +1,9 @@
-<nav>
-    <a href="/"> Home </a>
-    <a href="/about-me"> About Me </a>
+<nav class="navbar is-danger is-spaced">
+    <a class="navbar-item" href="/"> Home </a>
+    <a class="navbar-item" href="/about-me"> About Me </a>
 </nav>
 
-<style>
+<!-- <style>
     a {
         background-color: #ff73c0;
         font-size: 1em;
@@ -17,4 +17,4 @@
     a:hover {
         background-color: rgb(156, 29, 99);
     }
-</style>
+</style> -->
