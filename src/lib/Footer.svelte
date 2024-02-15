@@ -1,5 +1,9 @@
+<script>
+    export let footer;
+</script>
+
 <footer class="footer">
     <div class="content has-text-centered">
-        <p>&copy; Craighead Diocesan School 2024</p>
+        <p class="footer">{footer}</p>
     </div>
 </footer>

@@ -16,7 +16,7 @@
     <img src="/cuesyrupy.JPG" alt="" />
 </main>
 
-<Footer />
+<Footer footer="&copy Georgiana 2024" />
 
 <style>
     img {

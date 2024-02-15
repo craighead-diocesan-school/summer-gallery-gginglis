@@ -36,4 +36,4 @@
   </div>
 </main>
 
-<Footer />
+<Footer footer="Georgiana 2024" />
