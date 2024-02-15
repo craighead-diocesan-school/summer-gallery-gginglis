@@ -4,7 +4,7 @@
   import Nav from "$lib/Nav.svelte";
 </script>
 
-<Header />
+<Header title="Summer Gallery" subtitle="Images from summer" />
 
 <Nav />
 <main>
